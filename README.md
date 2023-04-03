@@ -8,6 +8,8 @@ Klipper configs are in the `config` folder
  
 ## The build:
 
+**Mainboard:** BigTreeTech SKR Pico
+
 **Toolhead:** [Voron Stealthburner](https://vorondesign.com/voron_stealthburner)
 
  - **Mount:** Strayr's [AB/SB Carriage mount](https://github.com/strayr/voron-afterburner-ender3)
