@@ -8,7 +8,7 @@ Klipper configs are in the `config` folder
  
 ## The build:
 
-**Mainboard:** BigTreeTech SKR Pico
+**Mainboard:** BTT SKR Pico
 
 **Toolhead:** [Voron Stealthburner](https://vorondesign.com/voron_stealthburner)
 
