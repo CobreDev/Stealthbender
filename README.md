@@ -8,12 +8,14 @@ Klipper configs are in the `config` folder
  
 ## The build:
 
-**Mainboard:** BTT SKR Pico
+**Mainboard:**
+BTT SKR Pico
+BTT SKR Mini E3V3
 
 **Toolhead:** [Voron Stealthburner](https://vorondesign.com/voron_stealthburner)
 
  - **Mount:** Strayr's [AB/SB Carriage mount](https://github.com/strayr/voron-afterburner-ender3)
- - **Hotend:** Creality MK8 hotend, all-metal heat break, CHT nozzle clone, Strayr's [Stealthburner Creality mount](https://github.com/strayr/stealthburner_creality_edition)
+ - **Hotend:** Creality MK8 hotend, all-metal heat break, CHT nozzle clone, [MK8 hotend mount](https://www.printables.com/model/465374-stealthburner-creality-mk8-toolhead)
  - **Auto Bed Level Probe:** KevinAkaSam's [KlackEnder](https://github.com/kevinakasam/KlackEnder-Probe)
 
 **Skirts:** KevinAkaSam's [Tridender Skirts](https://github.com/kevinakasam/Tridender-Skirts)
