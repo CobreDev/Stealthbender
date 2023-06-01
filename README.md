@@ -8,7 +8,7 @@ Klipper configs are in the `config` folder
  
 ## The build:
 
-**Mainboard:**
+**Mainboards:**
 - BTT SKR Pico
 - BTT SKR Mini E3V3
 
